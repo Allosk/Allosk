@@ -5,8 +5,5 @@
     <a  href="https://t.me/Allo_sk">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram "/>
     </a>
-    <a href="http://a98220n6.beget.tech/">
-      <img src="https://img.shields.io/badge/MySite-808080?style=for-the-badge&logo=HTML5&Color=white" alt="MySite Badge"/> 
-    </a>
   </div>
 </div>
